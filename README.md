@@ -1,6 +1,7 @@
 # Student_Marks_Management
 It is a simple Python GUI built with Tkinter and MongoDB backend which can be used to update students marks as well as to check the student record.This project can further be connected with mongo db atls or AWS dynamo db. Here i am running my mongodb locally 
-
+app.py file is used to entry the marks
+Marks_checking py file is used to check the entry by putting roll number
 
 ## Prerequisites
 - Python 3.6 or above
