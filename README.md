@@ -10,7 +10,7 @@ It is a simple Python GUI built with Tkinter and MongoDB backend which can be us
 ## Usage
  Clone the repository :
 ```
-$ git clone https://github.com/nishant0693/Student_Marks_Management.git
+git clone https://github.com/nishant0693/Student_Marks_Management.git
 
 Start Mongodb 
 Connect to the database
