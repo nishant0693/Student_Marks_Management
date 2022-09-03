@@ -4,6 +4,7 @@
 # In[ ]:
 # Made By Nishant Singh
 # Email:nishant.0693@gmail.com
+# Also Contributed: Aarush Mane
 
 import pymongo
 client=pymongo.MongoClient('mongodb://127.0.0.1:27017/')
